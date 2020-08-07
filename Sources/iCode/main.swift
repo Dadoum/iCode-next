@@ -1,5 +1,4 @@
 import Foundation
-import CoreADI
 
 /**
     Entry point of program.

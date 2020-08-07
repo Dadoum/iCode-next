@@ -18,8 +18,7 @@ let package = Package(
             name: "iCode",
             dependencies: [
             //    "Gtk",
-                "XcodeProj",
-                "CoreADI"
+                "XcodeProj"
             ]),
         .testTarget(
             name: "iCodeTests",
